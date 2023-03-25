@@ -1,0 +1,6 @@
+exit
+db.users.find()
+db.users.}find()
+db.find()
+db.users.insert({"name": "whoIsBeto"})
+use platzi
